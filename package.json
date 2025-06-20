@@ -1,0 +1,20 @@
+{
+  "name": "indexjs-go",
+  "version": "8.8.8",
+  "description": "This is a indexjs-go project",
+  "main": "index.js",
+  "author": "XHegit",
+  "repository": "https://github.com/XHegit/indexjs-go",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
